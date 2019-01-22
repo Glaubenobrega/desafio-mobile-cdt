@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_grafico"
+        android:icon="@mipmap/grafico_clicked"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_extrato"
+        android:icon="@mipmap/extrato"
+        android:title="" />
+</menu>

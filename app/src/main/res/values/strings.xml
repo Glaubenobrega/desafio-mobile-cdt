@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Conductor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_profile">Perfil</string>
+    <string name="perfil">Perfil</string>
+    <string name="sobre">Sobre</string>
+    <string name="carregando">Carregando...</string>
+    <string name="saldo">Atualizando saldo...</string>
+    <string name="descricao">Desafio desenvolvido por: Glauber Nóbrega</string>
+    <string name="sem_conexao">Verifique sua conexão com a internet</string>
+    <string name="erro_saldo">Erro ao recuperar saldo</string>
+    <string name="erro_portador">Erro ao recuperar dados do portador</string>
+    <string name="erro_compras">Erro ao recuperar histórico de compras</string>
+    <string name="pagina_nao_encotrada">Página inválida</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="moeda">R$</string>
+    <string name="mes">Selecione o mês desejado</string>
+    <string name="gasto">Gasto</string>
+    <string name="disponivel">Disponível</string>
+    <string name="saldo_disponivel">R$ 0,00</string>
+</resources>
